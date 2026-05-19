@@ -1,4 +1,4 @@
-pipeline {terminate task
+pipeline {
     agent any
 
     stages {
